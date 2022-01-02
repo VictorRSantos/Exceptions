@@ -1,0 +1,16 @@
+S:\Balta.io\Arrays\Exceptions\bin\Debug\net5.0\Exceptions.exe
+S:\Balta.io\Arrays\Exceptions\bin\Debug\net5.0\Exceptions.deps.json
+S:\Balta.io\Arrays\Exceptions\bin\Debug\net5.0\Exceptions.runtimeconfig.json
+S:\Balta.io\Arrays\Exceptions\bin\Debug\net5.0\Exceptions.runtimeconfig.dev.json
+S:\Balta.io\Arrays\Exceptions\bin\Debug\net5.0\Exceptions.dll
+S:\Balta.io\Arrays\Exceptions\bin\Debug\net5.0\ref\Exceptions.dll
+S:\Balta.io\Arrays\Exceptions\bin\Debug\net5.0\Exceptions.pdb
+S:\Balta.io\Arrays\Exceptions\obj\Debug\net5.0\Exceptions.csproj.AssemblyReference.cache
+S:\Balta.io\Arrays\Exceptions\obj\Debug\net5.0\Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+S:\Balta.io\Arrays\Exceptions\obj\Debug\net5.0\Exceptions.AssemblyInfoInputs.cache
+S:\Balta.io\Arrays\Exceptions\obj\Debug\net5.0\Exceptions.AssemblyInfo.cs
+S:\Balta.io\Arrays\Exceptions\obj\Debug\net5.0\Exceptions.csproj.CoreCompileInputs.cache
+S:\Balta.io\Arrays\Exceptions\obj\Debug\net5.0\Exceptions.dll
+S:\Balta.io\Arrays\Exceptions\obj\Debug\net5.0\ref\Exceptions.dll
+S:\Balta.io\Arrays\Exceptions\obj\Debug\net5.0\Exceptions.pdb
+S:\Balta.io\Arrays\Exceptions\obj\Debug\net5.0\Exceptions.genruntimeconfig.cache
